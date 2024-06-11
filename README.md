@@ -25,7 +25,7 @@ $ Una computadora (no está soportado aún la ejecución en dispositivos celular
 
 # *€*€* Nuestro proveedor de servicio *€*€*
 
-- [Open Exchange Rates](https://openexchangerates.org)
+- [Open Exchange Rates](https://openexchangerates.org) <br>
   Example Request: https://v6.exchangerate-api.com/v6/58f3a1afc10418c0136106b1/latest/USD
 
 <hr>
